@@ -1,2 +1,2 @@
 # react-ecommerce
-React and node ecommerce website
+React and node ecommerce website (not yet completed)
