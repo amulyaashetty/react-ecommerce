@@ -1,2 +1,2 @@
-# react-ecommerce
-React and node ecommerce website (not yet completed).
+# STORE WITH MORE - React ecommerce web application
+
